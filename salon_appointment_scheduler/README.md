@@ -1,1 +1,1 @@
-This is a freeCodeCamp project. In this project you create a salon database then a script. When the script is ran it will prompt the user to schedule a salon appointment. It will read the user input into variables and insert the data into database.
+This is a freeCodeCamp project. In this project one creates a salon database using PostgreSQL then a Bash script. When the script is ran it will prompt the user to schedule a salon appointment. It will read the user input into variables and insert the data into the database.
